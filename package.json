@@ -1,8 +1,8 @@
 {
-  "name": "vs-remake",
-  "productName": "vs-remake",
+  "name": "versus",
+  "productName": "Versus",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Um aplicativo de filmes ",
   "main": ".vite/build/main.js",
   "private": true,
   "scripts": {
